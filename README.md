@@ -2,7 +2,7 @@
 What is Email Processor
 *******************
 
-Email Processor is an Engineering Assessment for Inflektion on how to process unprocessed email content to printable characters.
+Email Processor is an Engineering Assessment for Inflektion on how to process raw email content to printable characters.
 
 *******************
 Installation
