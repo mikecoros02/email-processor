@@ -1,11 +1,11 @@
 *******************
-What is Email Processor
+# What is Email Processor
 *******************
 
 Email Processor is an Engineering Assessment for Inflektion on how to process raw email content to printable characters.
 
 *******************
-Installation
+## Installation
 *******************
 
 -  Extract the zip file in your folder
@@ -17,11 +17,11 @@ Installation
 -  We need "POSTMAN" app to check the API endpoints
 
 *******************
-Notes
+## Notes
 *******************
 
-User Login for Authentication:
+**User Login for Authentication:**
 
-email: test@example.com
-password: password
+-  email: test@example.com
+-  password: password
 
