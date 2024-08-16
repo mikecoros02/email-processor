@@ -38,7 +38,8 @@ Email Processor is an Engineering Assessment for Inflektion on how to process ra
 
 **Update**
 - (PUT) http://localhost:8000/api/email/{$id}
-- add all the values in Body->form-data for update (Postman)
+- add all the values in Body->x-www-form-urlencoded for update (Postman)
+- WARNING! if you add the values in Body->form-data and Body->raw in Postman, it will not work
 
 **Get All**
 - (GET) http://localhost:8000/api/email (soft deleted cannot be fetch, paginated also to 5)
