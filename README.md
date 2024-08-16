@@ -1,12 +1,8 @@
-*******************
 # What is Email Processor
-*******************
 
 Email Processor is an Engineering Assessment for Inflektion on how to process raw email content to printable characters.
-
-*******************
+*
 ## Installation
-*******************
 
 -  Extract the zip file in your folder
 -  Open it to your favorite Code Editor (e.g. vscode, vim)
@@ -16,9 +12,7 @@ Email Processor is an Engineering Assessment for Inflektion on how to process ra
 -  Run "php artisan serve"
 -  We need "POSTMAN" app to check the API endpoints
 
-*******************
 ## Notes
-*******************
 
 **User Login for Authentication:**
 
